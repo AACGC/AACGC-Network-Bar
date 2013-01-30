@@ -1,0 +1,20 @@
+/*
+#######################################
+#     e107 website system plguin      #
+#     AACGC Network Bar               #
+#     by M@CH!N3                      #
+#     http://www.aacgc.com            #
+#######################################
+*/
+
+
+
+Add the shortcode {NETBAR} in you theme.php file or menu where you want it to show. Adjust plugin settings for best looks on your site.
+
+
+
+
+PLEASE REPORT ANY PROBLEMS OR SUGGESTIONS IN THE FORUMS AT www.AACGC.com !!
+
+
+Thank you!
